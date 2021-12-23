@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px; /* Default font-size. It could be ignored */
+  background-color: #333;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  padding: 4px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+h1 {
+  /* font-size: 2em; */
+}
+
+p {
+  font-size: 1em;
+}
